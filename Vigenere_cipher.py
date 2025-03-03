@@ -1,14 +1,5 @@
-
-def encryption(message: str, custom_key: str, shift: int):
-    alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÁÉÍÓÚáéíóú"
-
-    encrypted_text=""
-
-
-
-
-    text = 'mrttaqrhknsw ih puggrur'
-custom_key = 'python'
+text = 'mrttaqrhknsw ih puggrur'
+custom_key = 'happycoding'
 
 def vigenere(message, key, direction=1):
     key_index = 0
