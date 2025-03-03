@@ -31,7 +31,7 @@ def decryption_algo(text: str, shift: int) -> str:
 
 
 
-message = "Look how dumb you are"
+message = "Bonjour mon nom est Eben Ezer"
 
 print("The encrypted form: " , encryption_algo(message, 1))
 
